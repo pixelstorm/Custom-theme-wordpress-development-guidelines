@@ -1,4 +1,4 @@
-# Custom-theme-wordpress-development-guidelines
+# Custom theme WordPress Development Guidelines
 
 ## Custom Coding
 1. Prefix all functions with clientcode_ and tables with a unique white_label prefix.
